@@ -1,5 +1,5 @@
 {
-  "name": "gulp-sass-json",
+  "name": "gulp-sass-json2",
   "version": "1.0.0",
   "description": "Convert sass/scss vars to JSON to make them accessible in java script",
   "main": "index.js",
