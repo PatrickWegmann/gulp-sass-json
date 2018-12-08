@@ -1,6 +1,6 @@
 {
   "name": "gulp-sass-json2",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Convert sass/scss vars to JSON to make them accessible in java script",
   "main": "index.js",
   "keywords": [
@@ -9,6 +9,10 @@
     "to",
     "json"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/PatrickWegmann/gulp-sass-json"
+  },
   "author": "Patrick Wegmann",
   "license": "ISC"
 }
